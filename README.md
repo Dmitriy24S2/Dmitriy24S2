@@ -43,6 +43,47 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus purus erat, con
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dmitriy24S&theme=gruvbox&border_radius=4.5)
 
+
+<a href="https://github.com/Dmitriy24S2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dmitriy24S&show_icons=true&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Dmitriy24S2">
+  <img align="center" src="https://streak-stats.demolab.com?user=Dmitriy24S&theme=midnight-purple&border_radius=4.5" />
+</a>
+
+
+<a href="https://github.com/Dmitriy24S2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dmitriy24S&show_icons=true&theme=aura" />
+</a>
+<a href="https://github.com/Dmitriy24S2">
+  <img align="center" src="https://streak-stats.demolab.com?user=Dmitriy24S&theme=aura&border_radius=4.5" />
+</a>
+
+<a href="https://github.com/Dmitriy24S2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dmitriy24S&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/Dmitriy24S2">
+  <img align="center" src="https://streak-stats.demolab.com?user=Dmitriy24S&theme=gruvbox&border_radius=4.5" />
+</a>
+
+
+<a href="https://github.com/Dmitriy24S2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dmitriy24S&show_icons=true&theme=aura_dark" />
+</a>
+<a href="https://github.com/Dmitriy24S2">
+  <img align="center" src="https://streak-stats.demolab.com?user=Dmitriy24S&theme=aura_dark&border_radius=4.5" />
+</a>
+
+
+<a href="https://github.com/Dmitriy24S2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dmitriy24S&show_icons=true&theme=jolly" />
+</a>
+<a href="https://github.com/Dmitriy24S2">
+  <img align="center" src="https://streak-stats.demolab.com?user=Dmitriy24S&theme=jolly&border_radius=4.5" />
+</a>
+
+
+
 #
 
 <!-- <details>
